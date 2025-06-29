@@ -1,6 +1,6 @@
 # portfolio
 
-portfolio
+![Frame 1000004494](https://github.com/user-attachments/assets/4c9dd193-7b0b-4496-ae07-7de367b8918f)
 
 ## Getting Started
 
